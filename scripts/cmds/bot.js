@@ -1,1 +1,243 @@
-function _0x37b8(){const _0x3d76dc=['1239EtKnVm','length','iss\x20ato\x20dako\x20keno\x20lojja\x20lage\x20to\x20🫦🙈','startsWith','Bot','Aminulsordar','ask\x20amr\x20mon\x20vlo\x20nei\x20dakben\x20na🙂','Fun','9991720uDVSRC','senderID','suna\x20tomare\x20amar\x20valo\x20lage,🙈😽','Hi,\x20I\x27m\x20massanger\x20Bot\x20i\x20can\x20help\x20you.?🤖','707472iGZlAx','{pn}\x20text','error','toLowerCase','find','name','User','66nGWmKO','81LutaZg','Hi,\x20Don\x27t\x20disturb\x20🤖\x20🚘Now\x20I\x27m\x20going\x20to\x20Feni,Bangladesh..bye','Hmm\x20jan\x20ummah😘😘','362344QGSNRr','🥀\x20','5773124EpfLuy','Hmmm\x20sona\x20🖤\x20meye\x20hoile\x20kule\x20aso\x20ar\x20sele\x20hoile\x20kule\x20new\x20🫂😘','হা\x20বলো,\x20শুনছি\x20আমি\x20🤸‍♂️🫂','আমাকে\x20আমাকে\x20না\x20ডেকে\x20আমার\x20বসকে\x20ডাকো\x20এই\x20নেও\x20LINK\x20:-\x20https://www.facebook.com/100071880593545','body','bot','2264740GzMjrU','exports','378835QkPwcO','reply','418AYUaPI','getUserInfo','jan\x20bal\x20falaba,🙂','Error\x20fetching\x20user\x20info:','Hi,\x20🤖\x20i\x20can\x20help\x20you~~~~','floor','Ato\x20daktasen\x20kn\x20bujhlam\x20na\x20😡'];_0x37b8=function(){return _0x3d76dc;};return _0x37b8();}const _0x206097=_0x19fa;(function(_0x23ca83,_0xcfd0b4){const _0x5e3343=_0x19fa,_0x5ab9a3=_0x23ca83();while(!![]){try{const _0x2729dc=parseInt(_0x5e3343(0x133))/0x1+-parseInt(_0x5e3343(0x120))/0x2*(parseInt(_0x5e3343(0x127))/0x3)+-parseInt(_0x5e3343(0x11c))/0x4+-parseInt(_0x5e3343(0x11e))/0x5*(-parseInt(_0x5e3343(0x13a))/0x6)+-parseInt(_0x5e3343(0x116))/0x7+-parseInt(_0x5e3343(0x114))/0x8*(parseInt(_0x5e3343(0x13b))/0x9)+parseInt(_0x5e3343(0x12f))/0xa;if(_0x2729dc===_0xcfd0b4)break;else _0x5ab9a3['push'](_0x5ab9a3['shift']());}catch(_0x4897b0){_0x5ab9a3['push'](_0x5ab9a3['shift']());}}}(_0x37b8,0x9ff6a));function hi(){console['log']('Hello\x20World!');}function _0x19fa(_0x1a2371,_0x5ef481){const _0x37b82b=_0x37b8();return _0x19fa=function(_0x19fa88,_0x2d196f){_0x19fa88=_0x19fa88-0x112;let _0x54535d=_0x37b82b[_0x19fa88];return _0x54535d;},_0x19fa(_0x1a2371,_0x5ef481);}hi(),module[_0x206097(0x11d)]={'config':{'name':'bot','version':'1.0','author':_0x206097(0x12c),'countDown':0x5,'role':0x0,'shortDescription':_0x206097(0x11b),'longDescription':_0x206097(0x11b),'category':_0x206097(0x12e),'guide':{'en':_0x206097(0x134)}},'onStart':async()=>{},'onChat':async function({message:_0x5f364c,event:_0x4c72c0,api:_0xa0d40b}){const _0x108dfc=_0x206097,_0x12be9e=['I\x20love\x20you\x20💝','ভালোবাসি\x20তোমাকে\x20🤖',_0x108dfc(0x132),'Use\x20callad\x20to\x20contact\x20admin!',_0x108dfc(0x112),_0x108dfc(0x124),'আমি\x20এখন\x20আমিনুল\x20বসের\x20সাথে\x20বিজি\x20আছি',_0x108dfc(0x119),_0x108dfc(0x117),'Yah\x20This\x20Bot\x20creator\x20:\x20PRINCE\x20RID((A.R))\x20\x20\x20\x20\x20link\x20=>\x20https://www.facebook.com/100071880593545',_0x108dfc(0x118),_0x108dfc(0x126),_0x108dfc(0x122),_0x108dfc(0x12d),_0x108dfc(0x113),'jang\x20hanga\x20korba\x20🙂🖤',_0x108dfc(0x129),_0x108dfc(0x131)],_0x8d6b9e=[_0x108dfc(0x11b),_0x108dfc(0x12b)];if(!_0x4c72c0[_0x108dfc(0x11a)])return;const _0x4fbd52=_0x8d6b9e[_0x108dfc(0x137)](_0x4f7674=>_0x4c72c0['body'][_0x108dfc(0x136)]()[_0x108dfc(0x12a)](_0x4f7674['toLowerCase']()));if(!_0x4fbd52)return;const _0x341cd7=_0x4c72c0[_0x108dfc(0x130)];let _0x242d9b=_0x108dfc(0x139);try{const _0x5d2a17=await _0xa0d40b[_0x108dfc(0x121)](_0x341cd7);_0x242d9b=_0x5d2a17[_0x341cd7]?.[_0x108dfc(0x138)]||'User';}catch(_0xce7651){console[_0x108dfc(0x135)](_0x108dfc(0x123),_0xce7651);}const _0x4f67ee=_0x12be9e[Math[_0x108dfc(0x125)](Math['random']()*_0x12be9e[_0x108dfc(0x128)])];return _0x5f364c[_0x108dfc(0x11f)]({'body':_0x108dfc(0x115)+_0x242d9b+'\x20🥀\x0a\x0a'+_0x4f67ee,'mentions':[{'id':_0x341cd7,'tag':_0x242d9b}]});}};
+const axios = require("axios");
+
+const getAPIBase = async () => {
+  const { data } = await axios.get(
+    "https://raw.githubusercontent.com/nazrul4x/Noobs/main/Apis.json"
+  );
+  return data.bs;
+};
+
+const sendMessage = (api, threadID, message, messageID) =>
+  api.sendMessage(message, threadID, messageID);
+
+const cError = (api, threadID, messageID) =>
+  sendMessage(api, threadID, "error🦆💨", messageID);
+
+const teachBot = async (api, threadID, messageID, senderID, teachText) => {
+  const [ask, answers] = teachText.split(" - ").map(text => text.trim());
+  if (!ask || !answers) {
+    return sendMessage(api, threadID, "Invalid format. Use: {pn} teach <ask> - <answer1, answer2, ...>", messageID);
+  }
+  
+  const answerArray = answers.split(",").map(ans => ans.trim()).filter(ans => ans !== "");
+  
+  try {
+    const apiBase = await getAPIBase();
+    if (!apiBase) return cError(api, threadID, messageID);
+    
+    const res = await axios.get(
+      `${apiBase}/bby/teach?ask=${encodeURIComponent(ask)}&ans=${encodeURIComponent(answerArray.join(","))}&uid=${senderID}`
+    );
+    
+    const responseMsg = res.data?.message === "Teaching recorded successfully!" ?
+      `Successfully taught the bot!\n📖 Teaching Details:\n- Question: ${res.data.ask}\n- Answers: ${answerArray.join(", ")}\n- Your Total Teachings: ${res.data.userStats.user.totalTeachings}` :
+      res.data?.message || "Teaching failed.";
+    
+    return sendMessage(api, threadID, responseMsg, messageID);
+  } catch {
+    return cError(api, threadID, messageID);
+  }
+};
+
+const talkWithBot = async (api, threadID, messageID, senderID, input) => {
+  try {
+    const apiBase = await getAPIBase();
+    if (!apiBase) return cError(api, threadID, messageID);
+    
+    const res = await axios.get(
+      `${apiBase}/bby?text=${encodeURIComponent(input)}&uid=${senderID}&font=1`
+    );
+    
+    const reply = res.data?.text || "Please teach me this sentence!🦆💨";
+    const react = res.data.react || "";
+   
+    return api.sendMessage(reply+react, threadID, (error, info) => {
+      if (error) return cError(api, threadID, messageID);
+      if (!global.GoatBot.onReply) global.GoatBot.onReply = new Map();
+      global.GoatBot.onReply.set(info.messageID, {
+        commandName: module.exports.config.name,
+        type: "reply",
+        author: senderID,
+        msg: reply,
+      });
+    }, messageID);
+  } catch {
+    return cError(api, threadID, messageID);
+  }
+};
+
+const botMsgInfo = async (api, threadID, messageID, senderID, input) => {
+  try {
+    const apiBase = await getAPIBase();
+    if (!apiBase) return cError(api, threadID, messageID);
+    
+    const res = await axios.get(
+      `${apiBase}/bby/msg?ask=${encodeURIComponent(input)}&uid=${senderID}`
+    );
+    
+    if (!res.data || res.data.status !== "Success" || !Array.isArray(res.data.messages) || res.data.messages.length === 0) {
+      return sendMessage(api, threadID, "No matching messages found!🦆💨", messageID);
+    }
+    
+    const askText = `📜 Ask: ${res.data.ask}\n\n`;
+    const answers = res.data.messages.map(msg => `🎀 [${msg.index}] ${msg.ans}`).join("\n");
+    
+    return sendMessage(api, threadID, `${askText}${answers}`, messageID);
+  } catch {
+    return cError(api, threadID, messageID);
+  }
+};
+
+const deleteMessage = async (api, threadID, messageID, senderID, input) => {
+  try {
+    const parts = input.split(" - ").map(part => part.trim());
+    
+    if (!parts[0]) {
+      return sendMessage(api, threadID, "Invalid format. Use: {pn} delete <text> OR {pn} delete <text> - <index>", messageID);
+    }
+    
+    const text = parts[0];
+    const index = parts[1] && !isNaN(parts[1]) ? parseInt(parts[1], 10) : null;
+    
+    const apiBase = await getAPIBase();
+    if (!apiBase) return cError(api, threadID, messageID);
+    
+    let url = `${apiBase}/bby/delete?text=${encodeURIComponent(text)}&uid=${senderID}`;
+    if (index !== null) url += `&index=${index}`;
+    
+    const res = await axios.get(url);
+    
+    return sendMessage(api, threadID, res.data?.status === "Success" ?
+      `✅ Successfully deleted ${index !== null ? `answer at index ${index} of` : "all answers related to"}: ${text}` :
+      res.data?.message || "❌ Failed to delete the message!", messageID);
+  } catch {
+    return cError(api, threadID, messageID);
+  }
+};
+
+const editMessage = async (api, threadID, messageID, senderID, input) => {
+  try {
+    const parts = input.split(" - ").map(part => part.trim());
+    
+    if (parts.length < 2) {
+      return sendMessage(api, threadID, "Invalid format. Use:\n1. {pn} edit <ask> - <newAsk>\n2. {pn} edit <ask> - <index> - <newAnswer>", messageID);
+    }
+    
+    const [ask, newAskOrIndex, newAns] = parts;
+    const apiBase = await getAPIBase();
+    if (!apiBase) return cError(api, threadID, messageID);
+    
+    if (!isNaN(newAskOrIndex) && newAns) {
+      const index = parseInt(newAskOrIndex, 10);
+      
+      const res = await axios.get(
+        `${apiBase}/bby/edit?ask=${encodeURIComponent(ask)}&index=${index}&newAns=${encodeURIComponent(newAns)}&uid=${senderID}`
+      );
+      
+      return sendMessage(api, threadID, res.data?.status === "Success" ?
+        `✅ Successfully updated answer at index ${index} to: ${newAns}` :
+        res.data?.message || "❌ Failed to update the answer!", messageID);
+    } else {
+      const res = await axios.get(
+        `${apiBase}/bby/edit?ask=${encodeURIComponent(ask)}&newAsk=${encodeURIComponent(newAskOrIndex)}&uid=${senderID}`
+      );
+      
+      return sendMessage(api, threadID, res.data?.status === "Success" ?
+        `✅ Successfully updated question to: ${newAskOrIndex}` :
+        res.data?.message || "❌ Failed to update the question!", messageID);
+    }
+  } catch {
+    return cError(api, threadID, messageID);
+  }
+};
+
+module.exports.config = {
+  name: "bot",
+  aliases: ["robot", "sim"],
+  version: "1.6.9",
+  author: "Nazrul",
+  role: 0,
+  description: "Talk with the bot or teach it new responses",
+  category: "talk",
+  countDown: 3,
+  guide: {
+    en: `{pn} <text> - Ask the bot something\n{pn} teach <ask> - <answer> - Teach the bot a new response\n\nExamples:\n1. {pn} Hello\n2. {pn} teach hi - hello\n3. {pn} delete <text> - Delete all answers related to text\n4. {pn} delete <text> <index> - Delete specific answer at index\n5. {pn} edit <Ask> <New Ask> to update the ask query\n6. {pn} edit <ask> <index>  <new ans> update specific answer at index`,
+  },
+};
+
+module.exports.onStart = async ({ api, event, args }) => {
+  const { threadID, messageID, senderID } = event;
+  if (args.length === 0) {
+    return sendMessage(api, threadID, "Please provide text or teach the bot!", messageID);
+  }
+  
+  const input = args.join(" ").trim();
+  const [command, ...rest] = input.split(" ");
+  
+  switch (command.toLowerCase()) {
+    case "teach":
+      return teachBot(api, threadID, messageID, senderID, rest.join(" ").trim());
+    case "msg":
+      return botMsgInfo(api, threadID, messageID, senderID, rest.join(" ").trim());
+    case "edit":
+      return editMessage(api, threadID, messageID, senderID, rest.join(" ").trim());
+    case "delete":
+    case "remove":
+      return deleteMessage(api, threadID, messageID, senderID, rest.join(" ").trim());
+    default:
+      return talkWithBot(api, threadID, messageID, senderID, input);
+  }
+};
+
+module.exports.onChat = async ({ api, usersData, event }) => {
+  const { threadID, messageID, body, senderID } = event;
+  const name = ((await usersData.get(senderID)).name)
+  const cMessages = ["✨ তোর সাথে কথা নাই কারণ তুই অনেক লুচ্চা 💔", " 😑 দূরে যাইয়া মুরি খাঁ, তোর কোনো কাজ কাম নাই", "🍹 এই নাও জুস খাও, বট বলতে বলতে হাপায় গেছো না 🥲","এই বলদ কি বলবি বল😾","চুপ চাপ Propose কর আমারে🫢","Gf de amar boss re🌊 m.me/61573052122735","🤖 Hi, I am bot, can I help you?","😒 এত বট বট না করে টাকা ও পাঠাতে পারো 😏","⚠ এইখানে লুচ্চামি করলে লাথি দিবো কিন্তু 😤","🤨🐸🌊","হাই জানু, তুমি কি Single😛","😍 Chumma dew Janu 😘","😍 হুম জান বলো 😎","😏 হ্যাঁ জানু, এইদিকে আসো, এইদিকে কিস দেই 😘","💬 Bolo ki korte pari tomar jonno","- চলো চলে যাই বিদেশ্যে🤥","😘 উম্মাহ দিলাম, love you কমু কিন্তু 😑","🍹 এই নাও জুস খাও, বট বলতে বলতে হাপায় গেছো না 🥲","What adventures await us today? 🌈","𝐤𝐢𝐫𝐞 𝐭𝐨𝐫 𝐌𝐚𝐭𝐡𝐚𝐢 𝐓𝐨 𝐝𝐞𝐤𝐡𝐢 𝐊𝐨𝐧𝐨 𝐁𝐫𝐚𝐢𝐧 𝐧𝐞𝐢 🌚","🪄 তাবিজ কইরা হইলেও ফ্রেম এক্কান করমুই, তাতে যা হই হোক 🤧🥱"];
+  const userInput = body.toLowerCase().trim();
+  
+  const keywords = ["bot", "Bot", "bot", "বট", "বড"];
+  
+  if (keywords.some((keyword) => userInput.startsWith(keyword))) {
+    const isQuestion = userInput.split(" ").length > 1;
+    if (isQuestion) {
+      const question = userInput.slice(userInput.indexOf(" ") + 1).trim();
+      
+      try {
+        const res = await axios.get(
+          `${await getAPIBase()}/bby?text=${encodeURIComponent(question)}&uid=${senderID}&font=1`
+        );
+        const replyMsg = res.data?.text || "Please teach me this sentence!🦆💨";
+        const react = res.data.react || "";
+        
+        return api.sendMessage(replyMsg+react, threadID, (error, info) => {
+          if (!error) {
+            global.GoatBot.onReply.set(info.messageID, {
+              commandName: module.exports.config.name,
+              type: "reply",
+              author: senderID,
+              replyMsg
+            });
+          }
+        }, messageID);
+      } catch (error) {
+        return api.sendMessage("error🦆💨", threadID, messageID);
+      }
+    } else {
+      const rMsg = cMessages[Math.floor(Math.random() * cMessages.length)];
+      return api.sendMessage(`♡  ${name} ✨\n\n${rMsg}`, threadID, (error, info) => {
+        if (!error) {
+          global.GoatBot.onReply.set(info.messageID, {
+            commandName: module.exports.config.name,
+            type: "reply",
+            author: senderID,
+          });
+        }
+      }, messageID);
+    }
+  }
+};
+
+module.exports.onReply = async ({ api, event, Reply }) => {
+  const { threadID, messageID, senderID, body } = event;
+  return talkWithBot(api, threadID, messageID, senderID, body);
+};
